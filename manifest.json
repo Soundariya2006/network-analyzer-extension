@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Smart Network Analyzer",
+  "version": "1.0",
+  "description": "Analyzes network performance and detects congestion with health score",
+  "permissions": ["notifications"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
